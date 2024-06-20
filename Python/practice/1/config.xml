@@ -1,0 +1,16 @@
+<appdata>
+    <usersql>
+        <username>userPython1</username>
+        <userpass>securePass</userpass>
+    </usersql>
+    <dbdata>
+        <dbname>test_db_1_python</dbname>
+        <host>localhost</host>
+    </dbdata>
+    <s3user>
+        <username>s3_user_stady</username>
+        <accesskey>AKIATC7F3MCOSFOEGBXV</accesskey>
+        <secretkey>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</secretkey>
+        <s3name>testbucketpython1study</s3name>
+    </s3user>
+</appdata>
