@@ -1,7 +1,7 @@
 {
-    "github": {"token"  :"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",
+    "github": {"token"  : "",
                "api_url": "https://api.github.com"},
-    "gitlab": {"token"  : "KwfdJZzzrwpS-sswPmik",
+    "gitlab": {"token"  : "",
                "api_url": "https://git.epam.com/api/v4"}
 
 }
