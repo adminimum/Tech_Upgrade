@@ -8,7 +8,7 @@ import (
 )
 
 func github_procces() {
-	fmt.Println("LOL")
+	fmt.Println("LOL, Github api and gitlab api look alike. It's better to learn something new")
 }
 
 var githubCmd = &cobra.Command{
